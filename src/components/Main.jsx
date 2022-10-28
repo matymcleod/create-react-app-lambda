@@ -6,10 +6,6 @@ const Main = () => {
     <div className='main'>
       <div className='overlay'></div>
       <video src={videoBg} autoPlay loop muted />
-      <div className='content'>
-        <h1>Strange Crew</h1>
-        <p>Stuff</p>
-      </div>
     </div>
   )
 }
