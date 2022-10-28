@@ -2,11 +2,9 @@ import React from 'react';
 
 const Nav = () => {
   return (
-    
-<div className='navbar'>
-  <div className='menu'></div>
-  <div className='title'></div>
-</div>
+    <div className='navbar'>
+      <div className='title'>Strange Crew Stuff</div>
+    </div>
   )
 }
 
